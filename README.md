@@ -14,6 +14,7 @@ Top-performing regions and countries
 
 
 _This dashboard solves these challenges by transforming raw sales data into an interactive and easy-to-understand report._
+
 **Key Features & Insights**
 1. Sales Trends Over Time – A line chart visualizing sales fluctuations across months and years.
 2. Sales by Country – A bar chart showing which countries contribute the most revenue.
@@ -23,6 +24,7 @@ _This dashboard solves these challenges by transforming raw sales data into an i
 
 
 _How We Created This Dashboard_
+
 **1. Data Preparation –**
 Organized raw sales data into structured tables.
 Cleaned and formatted data for consistency.
