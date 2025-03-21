@@ -48,11 +48,24 @@ Ensuring the dashboard remains interactive and user-friendly.
 
 
 
+**Key Findings:**
+
+The United States dominates sales, followed by Ireland and the UK, highlighting potential for expansion in underperforming regions.
+A small group of loyal customers contributes significantly to total sales, suggesting a need for customer retention programs.
+Sales fluctuate seasonally, indicating opportunities for seasonal promotions and strategic inventory management.
+Certain roast types and coffee sizes perform better, requiring better demand forecasting and stock optimization.
+
+**Business Impact & Next Steps:**
+
+Expand marketing efforts in Ireland and the UK to close the sales gap.
+Launch loyalty programs to retain high-value customers.
+Optimize inventory by stocking high-demand coffee sizes and roasts.
+Introduce seasonal promotions to maximize sales during peak months.
+Enhance online presence by expanding into e-commerce platforms.
+
 **Business Benefits & Use Cases**
 
 Sales Managers can track performance over time and adjust strategies.
 Marketing Teams can identify top-selling products and target the right customers.
 Retailers & Distributors can optimize inventory based on demand patterns.
-
-
 
